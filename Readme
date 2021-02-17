@@ -1,0 +1,9 @@
+Clone project POMTestWebsparks
+Open eclipse
+Import project
+change username/ password of account in MainTest class
+Run MainTest.class by TestNG Test
+------------------------------------------------------------
+Some special case :
++ Verified code via gmail or email you using register account -> not automation you need to verified by manual
++ Authentication account when log in successfull which case base on scecurity of github
