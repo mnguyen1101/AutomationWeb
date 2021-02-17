@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-17T18:53:33 ICT" name="Default suite" finished-at="2021-02-17T18:54:06 ICT" duration-ms="32584">
+    <groups>
+    </groups>
+    <test started-at="2021-02-17T18:53:33 ICT" name="Default test" finished-at="2021-02-17T18:54:06 ICT" duration-ms="32584">
+      <class name="com.automation.testcases.MainTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.automation.testcases.MainTest@4310d43]" started-at="2021-02-17T18:53:33 ICT" name="beforeClass" finished-at="2021-02-17T18:53:40 ICT" duration-ms="7031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="Step1_LoginGitHub()[pri:1, instance:com.automation.testcases.MainTest@4310d43]" started-at="2021-02-17T18:53:40 ICT" name="Step1_LoginGitHub" finished-at="2021-02-17T18:53:48 ICT" duration-ms="7409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step1_LoginGitHub -->
+        <test-method signature="Step2_addItemsList()[pri:2, instance:com.automation.testcases.MainTest@4310d43]" started-at="2021-02-17T18:53:48 ICT" name="Step2_addItemsList" finished-at="2021-02-17T18:53:56 ICT" duration-ms="8193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step2_addItemsList -->
+        <test-method signature="Step3_removeItemsList()[pri:3, instance:com.automation.testcases.MainTest@4310d43]" started-at="2021-02-17T18:53:56 ICT" name="Step3_removeItemsList" finished-at="2021-02-17T18:54:05 ICT" duration-ms="8697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step3_removeItemsList -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.automation.testcases.MainTest@4310d43]" started-at="2021-02-17T18:54:05 ICT" name="afterClass" finished-at="2021-02-17T18:54:06 ICT" duration-ms="1218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.automation.testcases.MainTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
